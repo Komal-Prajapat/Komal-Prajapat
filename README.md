@@ -1,5 +1,28 @@
 
 
+</style>
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/komal-prajapat-862b95242/">
+    <button>Linkedin</button>
+ </a>
+ <a href="https://www.instagram.com/komalprajapat484/?hl=en">
+  <button>Instagram</button>
+</a>
+<a href="https://leetcode.com/komal_prajapt/">
+  <button>Leet code</button>
+</a>
+<a href="https://www.linkedin.com/in/komal-prajapat-862b95242/">
+  <button>Linkedin</button>
+</a>
+<a href="https://www.facebook.com/komal.prajapat.31508076/?show_switched_toast=0&show_invite_to_follow=0&show_switched_tooltip=0&show_podcast_settings=0&show_community_review_changes=0&show_community_rollback=0&show_follower_visibility_disclosure=0">
+  <button>Facebook</button>
+</a>
+</div>
+
 <h1 align="center">hey there 👋</h1>
 
 
@@ -10,7 +33,12 @@
 
 <p align="left">I'm Web developer from Indore<br><br>- 🔭 I’m working as intern <br>- 📚 I'm currently learning React<br>- ⚡ In my free time I write some thing</p>
 
-
+<h2>Project </h2>
+<li>Recipe Finder <a href="https://komal-prajapat.github.io/recipes-find/">view</a></li>
+<li>Potfolio<a href="https://komal-prajapat.github.io/Portfolio--/">View</a></li>
+<li>Calculator<a href="https://komal-prajapat.github.io/Calculator/">View</a></li>
+<li>Youtube<a href="https://656cb6f09cf6c7247ed9d340--fabulous-kataifi-a625c7.netlify.app/"></a></li>
+<li>Instagram<a href="https://fabulous-kataifi-a625c7.netlify.app/"></a></li>
 
 <h3 align="left">🛠 Web Development Tools</h3>
 
@@ -87,24 +115,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div> -->
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/komal-prajapat-862b95242/">
-    <button margin-left:'10px'>Linkedin</button>
- </a>
- <a href="https://www.instagram.com/komalprajapat484/?hl=en">
-  <button>Instagram</button>
-</a>
-<a href="https://leetcode.com/komal_prajapt/">
-  <button>Leet code</button>
-</a>
-<a href="https://www.linkedin.com/in/komal-prajapat-862b95242/">
-  <button>Linkedin</button>
-</a>
-<a href="https://www.facebook.com/komal.prajapat.31508076/?show_switched_toast=0&show_invite_to_follow=0&show_switched_tooltip=0&show_podcast_settings=0&show_community_review_changes=0&show_community_rollback=0&show_follower_visibility_disclosure=0">
-  <button>Facebook</button>
-</a>
-</div>
