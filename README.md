@@ -1,20 +1,15 @@
 
-<h1 align="center">hey there 👋</h1>
-
-
+<h1 align="center">hey 👋  </h1>
 
 <h1 Komal align="left">👩‍💻  Komal Prajapt</h1>
-
-
-
 <p align="left">I'm Web developer from Indore<br><br>- 🔭 I’m working as intern <br>- 📚 I'm currently learning React<br>- ⚡ In my free time I write some thing</p>
 
-<h2>Project </h2>
-<li>Recipe Finder <a href="https://komal-prajapat.github.io/recipes-find/">view</a></li>
-<li>Potfolio<a href="https://komal-prajapat.github.io/Portfolio--/">View</a></li>
-<li>Calculator<a href="https://komal-prajapat.github.io/Calculator/">View</a></li>
-<li>Youtube<a href="https://656cb6f09cf6c7247ed9d340--fabulous-kataifi-a625c7.netlify.app/">View</a></li>
-<li>Instagram<a href="https://fabulous-kataifi-a625c7.netlify.app/">view</a></li>
+<h2>🚧 Project 🚧</h2>
+<li>🍷 Recipe Finder 🍷  <a href="https://komal-prajapat.github.io/recipes-find/"> view</a></li>
+<li>👩 Potfolio 👩 <a href="https://komal-prajapat.github.io/Portfolio--/"> View</a></li>
+<li> 📐 Calculator 📐<a href="https://komal-prajapat.github.io/Calculator/"> View</a></li>
+<li> 🎞️ Youtube 🎞️ <a href="https://656cb6f09cf6c7247ed9d340--fabulous-kataifi-a625c7.netlify.app/"> View</a></li>
+<li>  🎥 Instagram 🎥 <a href="https://fabulous-kataifi-a625c7.netlify.app/"> view</a></li>
 
 <h3 align="left">🛠 Web Development Tools</h3>
 
@@ -85,14 +80,12 @@
   <img src="https://tse1.mm.bing.net/th?id=OIP.YcNGeo1PGgz7UcYO2jTyjwHaEo&pid=Api&P=0&h=180" height="40" alt="rust logo"  />
   <img width="12" />
 </div>
-<!-- 
-<h3 align="left">🔥   My Stats :</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div> -->
-
-
+<!-- skill -->
+<div class="container skill">
+    <div class="c"  style="background-color: yellow; width: 200px;" >
+        <!-- <div class="cfill" style="background-color: black; width: 70%;"></div> -->
+    </div>
+</div>
 
 
 <div align="center">
@@ -109,9 +102,7 @@
 <a href="https://leetcode.com/komal_prajapt/">
   <button>Leet code</button>
 </a>
-<a href="https://www.linkedin.com/in/komal-prajapat-862b95242/">
-  <button>Linkedin</button>
-</a>
+
 <a href="https://www.facebook.com/komal.prajapat.31508076/?show_switched_toast=0&show_invite_to_follow=0&show_switched_tooltip=0&show_podcast_settings=0&show_community_review_changes=0&show_community_rollback=0&show_follower_visibility_disclosure=0">
   <button>Facebook</button>
 </a>
