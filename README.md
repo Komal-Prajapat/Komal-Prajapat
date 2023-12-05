@@ -3,7 +3,7 @@
 
 <h1 Komal align="left">👩‍💻  Komal Prajapt</h1>
 <p align="left">I'm Web developer from Indore<br><br>- 🔭 I’m working as intern <br>- 📚 I'm currently learning React<br>- ⚡ In my free time I write some thing</p>
-
+<a download href="">Resume</a>
 <h2>🚧 Project 🚧</h2>
 <li>🍷 Recipe Finder 🍷  <a href="https://komal-prajapat.github.io/recipes-find/"> view</a></li>
 <li>👩 Potfolio 👩 <a href="https://komal-prajapat.github.io/Portfolio--/"> View</a></li>
@@ -105,7 +105,9 @@
 
 <a href="https://www.facebook.com/komal.prajapat.31508076/?show_switched_toast=0&show_invite_to_follow=0&show_switched_tooltip=0&show_podcast_settings=0&show_community_review_changes=0&show_community_rollback=0&show_follower_visibility_disclosure=0">
   <button>Facebook</button>
+  
 </a>
+<a download href="mailto:komalprajapat267@gmail.com">Sendmail </a>
 </div>
 
 
