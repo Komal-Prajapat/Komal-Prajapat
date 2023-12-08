@@ -1,6 +1,4 @@
-
 <h1 align="center">hey 👋  </h1>
-
 <h1 Komal align="left">👩‍💻  Komal Prajapt</h1>
 <p align="left">I'm Web developer from Indore<br><br>- 🔭 I’m working as intern <br>- 📚 I'm currently learning React<br>- ⚡ In my free time I write some thing</p>
 <a download href="">Resume</a>
@@ -11,11 +9,7 @@
 <li> 📐 Calculator 📐<a href="https://komal-prajapat.github.io/Calculator/"> View</a></li>
 <li> 🎞️ Youtube 🎞️ <a href="https://656cb6f09cf6c7247ed9d340--fabulous-kataifi-a625c7.netlify.app/"> View</a></li>
 <li>  🎥 Instagram 🎥 <a href="https://fabulous-kataifi-a625c7.netlify.app/"> view</a></li>
-
 <h3 align="left">🛠 Web Development Tools</h3>
-
-
-
 <div align="left">
   <!-- html -->
   <img src="https://tse3.mm.bing.net/th?id=OIP.XgkUBvdmisPeQOedqfUU-gHaGY&pid=Api&P=0&h=180" height="40" alt="go logo"  />
@@ -35,10 +29,7 @@
   <!-- bootsratp -->
   <img src="https://tse3.mm.bing.net/th?id=OIP.ylJGrEn_oTmoJTZTzb6UzQHaHN&pid=Api&P=0&h=180" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  
 </div>
-
-
 <!-- programing tools -->
 <h3 align="left">🛠 Programming languages</h3>
 <div align="left">
@@ -51,11 +42,7 @@
   <!-- java -->
   <img src="https://tse2.mm.bing.net/th?id=OIP.1oR7lANeRM9fZJyYDdD_YwHaFj&pid=Api&P=0&h=180" height="40" alt="ruby logo"  />
   <img width="12" />
- 
-</div>
-
-
-
+ </div>
 <h3 align="left">🛠 Data Base </h3>
 <div align="left">
   <!-- Ms Access  -->
@@ -64,11 +51,7 @@
   <!-- sql -->
   <img src="https://tse4.mm.bing.net/th?id=OIP.urLHYMYPFxkcs6AC4Io9vwHaHa&pid=Api&P=0&h=180" height="40" alt="rust logo"  />
   <img width="12" />
-
 </div>
-
-
-
 <h3 align="left">🛠 Ms Tools </h3>
 <div align="left">
   <!--ppt  -->
@@ -110,5 +93,3 @@
 </a>
 <a download href="mailto:komalprajapat267@gmail.com">Sendmail </a>
 </div>
-
-
