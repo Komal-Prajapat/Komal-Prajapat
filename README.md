@@ -1,7 +1,7 @@
 <h1 align="center">hey  👋  </h1>
 <h1 Komal align="left">👩‍💻  Komal Prajapt</h1> 
-<p align="left">I'm Web developer from Indore<br><br>- 🔭 I’m working as intern <br>- 📚 I'm currently learning React<br>- ⚡ In my free time I write some thing</p>
-<a download href="">Resume</a>
+<p align="left">I'm Web developer from Indore<br><br>- 🔭 I’m working as intern <br>- <br>-
+<!-- <a download href="">Resume</a> -->
 <h2>🚧 Project 🚧</h2>
 <li>🍷 Recipe Finder 🍷  <a href="https://komal-prajapat.github.io/recipes-find/"> view</a></li>
 <li>👩 Potfolio 👩 <a href="https://komal-prajapat.github.io/Portfolio--/"> View</a></li>
