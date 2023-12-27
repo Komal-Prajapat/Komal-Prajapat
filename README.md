@@ -1,6 +1,5 @@
-
-    
-<h1 align="center">hey  👋  </h1>
+  
+h1 align="center">hey  👋  </h1>
 <h1 Komal align="left">👩‍💻  Komal Prajapt</h1> 
 <!-- <p align="left">I'm Web developer from Indore<br><br>- 🔭 I’m working as intern <br>- <br>- -->
 <!-- <a download href="">Resume</a> -->
