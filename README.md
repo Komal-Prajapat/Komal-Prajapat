@@ -9,8 +9,8 @@
 <li>👩 Potfolio 👩 <a href="https://komal-prajapat.github.io/Portfolio--/"> View</a></li>
 <li>👩Code Editor 👩 <a href="https://komal-prajapat.github.io/CodeEditor/"> View</a></li>
 <li> 📐 Calculator 📐<a href="https://komal-prajapat.github.io/Calculator/"> View</a></li>
-<li> 🎞️ Youtube 🎞️ <a href="https://656cb6f09cf6c7247ed9d340--fabulous-kataifi-a625c7.netlify.app/"> View</a></li>
-<li>  🎥 Instagram 🎥 <a href="https://fabulous-kataifi-a625c7.netlify.app/"> view</a></li>-->
+<li> 🎞️ Youtube 🎞️ <a href="https://656cb6f09cf6c7247ed9d340--fabulous-kataifi-a625c7.netlify.app/"> View</a></li>-->
+<li>  🎥 Instagram 🎥 <a href="https://movie-player-mern.vercel.app/movies/popular"> view</a></li>
 <h3 align="left">🛠 Web Development Tools</h3>
 <div align="left">
   <!-- html -->
