@@ -1,6 +1,6 @@
                                 
    <h1 align="center">hey  👋  </h1> 
-<h1 Komal align="left">👩‍💻  Komal Prajapt  👩‍💻 </h1> 
+<h1 Komal align="left">                                    👩‍💻  Komal Prajapt  👩‍💻             </h1> 
 <!-- <p align="left">I'm Web developer from Indore<br><br>- 🔭 I’m working as intern <br>- <br>- -->
 <!-- <a download href="">Resume</a> -->
 <p>"Passionate MERN Stack Developer | Proficient in HTML, CSS, JavaScript, React, Bootstrap, Tailwind, Node.js, Express, and MongoDB | Transforming Ideas into Dynamic Web Solutions"</p>
