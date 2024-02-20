@@ -1,5 +1,4 @@
-                                
-   <h1 align="center">hey  👋  </h1> 
+<h1 align="center">hey  👋  </h1> 
 <h1 Komal align="left">                                    👩‍💻  Komal Prajapt  👩‍💻             </h1> 
 <!-- <p align="left">I'm Web developer from Indore<br><br>- 🔭 I’m working as intern <br>- <br>- -->
 <!-- <a download href="">Resume</a> -->
@@ -72,10 +71,6 @@
         <!-- <div class="cfill" style="background-color: black; width: 70%;"></div> -->
     </div>
 </div>
-
-
-
-
 <div align="center" id="github-stats" style="width: 400px; height: 200px;">
 <h1 align="left">:muscle:My Github Stats</h1>
   <img src="https://github-readme-stats.vercel.app/api?username=Komal-Prajapat" alt="GitHub Stats">
@@ -92,10 +87,8 @@
 <a href="https://leetcode.com/komal_prajapt/">
   <button>Leet code</button>
 </a>
-
 <a href="https://www.facebook.com/komal.prajapat.31508076/?show_switched_toast=0&show_invite_to_follow=0&show_switched_tooltip=0&show_podcast_settings=0&show_community_review_changes=0&show_community_rollback=0&show_follower_visibility_disclosure=0">
   <button>Facebook</button>
-  
-</a>
-<a download href="mailto:komalprajapat267@gmail.com">Sendmail </a>
+  </a>
+<a download href="mailto:komalprajapat267@gmail.com">Sendmail</a>
 </div>
